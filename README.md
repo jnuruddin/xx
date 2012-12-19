@@ -15,3 +15,4 @@ r
 v
 s
 plugin reinstalled
+more plugins added
