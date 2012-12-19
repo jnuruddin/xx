@@ -1,6 +1,8 @@
 xx
 
 ==
+
+worked, but now trying with gerrit plugin re-added
 ahasdfhasdfjasdf
 removed gerrit plugin
 just nothing
