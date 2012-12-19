@@ -14,4 +14,4 @@ uwith minus A
 r
 v
 s
-
+plugin reinstalled
