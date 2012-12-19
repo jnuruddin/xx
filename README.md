@@ -2,6 +2,7 @@ xx
 
 ==
 
+removed gerrit plugin
 just nothing
 added more  permissions
 xx
