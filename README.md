@@ -2,6 +2,7 @@ xx
 
 ==
 
+not working when source code management is turned off
 worked, but now trying with gerrit plugin re-added
 ahasdfhasdfjasdf
 removed gerrit plugin
